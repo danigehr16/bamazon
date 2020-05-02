@@ -19,7 +19,7 @@
   "homepage": "https://github.com/danigehr16/bamazon#readme",
   "dependencies": {
     "inquirer": "^7.1.0",
-    "mysql": "^2.18.1",
-    "is-promise": "2.1.0"
+    "is-promise": "2.1.0",
+    "mysql": "^2.18.1"
   }
 }
